@@ -1,4 +1,8 @@
 # Tronxy x5sa PRO Drucker mit einem BigTreeTech SKR_mini_E3_V2.0 Board und einem BigTreeTech TFT35 E3 V3.0 Display
+Bauraum: 330x330x400mm X-Y-Z
+Art: Core XY
+Düsen: 0.4mm/0.5mm
+
 # Firmware Marlin 2.0.x
 Hardware Änderungen:
   - BTT SKR mini E3 V2.0 Mainboard (kommt)
